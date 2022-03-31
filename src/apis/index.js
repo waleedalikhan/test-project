@@ -1,0 +1,1 @@
+export const mainApi = "https://623b812c2e056d1037f389c0.mockapi.io/Users";
